@@ -1,0 +1,5 @@
+Due to large file size of raw data, please download all following rawdata and save them into 'data' folder before running the notebook:
+- Udacity_AZDIAS_052018.csv
+- Udacity_CUSTOMERS_052018.csv
+- Udacity_MAILOUT_052018_TEST.csv
+- Udacity_MAILOUT_052018_TRAIN.csv
