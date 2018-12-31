@@ -36,7 +36,8 @@ The general population into clusters were organized by using unsupervised learni
 ## Files Uploaded in Repository
 
 The following are all file/data that needed for this project.
-- Jupyter Notebook (Arvato Project Workbook.ipynb) - codings for each steps of CRISP-DM (Cross Industry Process for Data Mining)
+- Jupyter Notebook (Arvato Project Workbook.ipynb & Arvato Project Workbook.html) - codings for each steps of CRISP-DM (Cross Industry Process for Data Mining)
+- 'data' folder - folder for saving all raw data.
 - CSV file for Kaggle Competition (csvFile_KaggleCompetition.csv) - csv file prepared for Kaggle Competition
 
 ---
