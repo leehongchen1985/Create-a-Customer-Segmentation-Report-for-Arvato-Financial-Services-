@@ -44,7 +44,8 @@ The following are all file/data that needed for this project.
 ## Summary of the results of the analysis
 
 In this project, we could make the following conclusion based on the results predicted from the supervised and unsupervised models which were fitted and predicted based on the 4 datasets provided by Bertelsmann partners AZ Direct and Arvato Finance Solution.
-By using the clustering model (unsupervised model learning), the people groups which are overrepresented in the customer data compared to the general population have the following background information:
+
+1. By using the clustering model (unsupervised model learning), the people groups which are overrepresented in the customer data compared to the general population have the following background information:
 
 - higher activity of the last transaction with the complete file TOTAL
 - higher activity of the last transaction for the segment mail-order TOTAL
