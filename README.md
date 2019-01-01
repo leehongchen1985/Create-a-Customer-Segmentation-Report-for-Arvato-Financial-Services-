@@ -2,11 +2,16 @@
 ---
 
 ## Introduction
-In this project, I work with real-life data provided to us by Bertelsmann partners AZ Direct and Arvato Finance Solution. The data here concerns a company that performs mail-order sales in Germany. 
 
-I applied unsupervised learning techniques on demographic and spending data for a sample of German households. I also pre-processed the data, apply dimensionality reduction techniques, and implement clustering algorithms to segment customers with the goal of optimizing customer outreach for a mail order company. 
+In this project, I work with real-life data provided to us by Bertelsmann partners AZ Direct and Arvato Finance Solution. The data here concerns a company that performs mail-order sales in Germany. In this analysis process, we will discuss about the main business question below based on all demographics data of general population of Germany and customers of a mail-order company.
 
-Besides that, I also have access to a third dataset with attributes from targets of a mail order campaign. A supervised machine learning model was setup to predicts whether or not each individual will respond to the campaign.
+1. What kind of Germany population groups might be represented by the customers of a mail-order company.
+
+2. What kind of Germany population groups are unlikely be the customers of a mail-order company.
+
+In order to answer the two questions, I applied unsupervised learning techniques on demographic and spending data for a sample of German households. I also pre-processed the data, apply dimensionality reduction techniques, and implement clustering algorithms to segment customers with the goal of optimizing customer outreach for a mail order company. Besides that, I also have access to a third dataset with attributes from targets of a mail order campaign. A supervised machine learning model was setup to predicts whether or not each individual will respond to the campaign.
+
+By using unsupervised and supervised learning techniques, the mail-order company is able to organize the general population into clusters, then use those clusters to see which of them comprise the main user base for the company.
 
 ---
 
